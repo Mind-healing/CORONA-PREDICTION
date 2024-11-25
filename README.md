@@ -1,0 +1,1 @@
+The aim of the project is to use this data set to build a classification model that can differentiate outcome of Corona whether Positive and negative given the above medical records. Also to create a comparative analysis against the preferred model used. The unsupervised Machine Learning technique was employed in this project. The model used was Random Forest Classifier
